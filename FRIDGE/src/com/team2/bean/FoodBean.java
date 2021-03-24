@@ -1,5 +1,4 @@
 package com.team2.bean;
-//test
 public class FoodBean implements java.io.Serializable {
 	private static final long serialVersionUID = 1L;
 	private String foodno;
